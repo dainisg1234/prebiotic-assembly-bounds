@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+--*.csv
+*.pdf
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
