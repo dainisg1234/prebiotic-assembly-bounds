@@ -9,7 +9,7 @@ The program illustrates, at small scale, the difference between two detection pr
 1. **Target Search**: can blind stochastic assembly produce one pre-specified sequence?
 2. **Functional Search**: can blind stochastic assembly produce at least one member of a functional sequence class?
 
-The simulation is intended as an illustration and consistency check. It is not an independent validation of Earth-scale chemical estimates.
+The simulation is intended as an illustration and consistency check. It is not an independent validation of Earth-scale chemical estimates. 
 
 ---
 
@@ -334,5 +334,6 @@ python test_assembly.py --quick   # skip slow plateau tests
 ## License
 
 MIT License.
-#   p r e b i o t i c - a s s e m b l y - b o u n d s  
+#   p r e b i o t i c - a s s e m b l y - b o u n d s 
+ 
  
