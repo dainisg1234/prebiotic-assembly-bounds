@@ -334,6 +334,4 @@ python test_assembly.py --quick   # skip slow plateau tests
 ## License
 
 MIT License.
-#   p r e b i o t i c - a s s e m b l y - b o u n d s 
- 
- 
+#
